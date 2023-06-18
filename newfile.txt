@@ -1,2 +1,1 @@
-This is new file edited by second person..
-created in develop branch. 
+This is new file edited by second person. 
